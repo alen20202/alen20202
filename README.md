@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alen Thomas</h1>
-<h3 align="center"> I Code everything.... only the things I know.</h3>
+<h3 align="center"> one bug at a time...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alen20202&label=Profile%20views&color=0e75b6&style=flat" alt="alen20202" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alen20202" alt="alen20202" /></a> </p>
 
-- 🌱 I’m currently learning **Unity 3D engine,**
+- 🌱 I’m currently working on **Unity 3D engine,**
 
 - 👯 I’m looking to collaborate on ** Full stack projects**
 
