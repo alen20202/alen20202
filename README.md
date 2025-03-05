@@ -22,6 +22,6 @@ Feel free to **fork, star, and contribute** to my repositories. Let's build some
 ## 📫 Let's Connect
 
 - 📩 **Email:** [@darkstal746@gmail.com](mailto:darkstal746@gmail.com)  
-- 🔗 **LinkedIn:** [@Alen Thomas](www.linkedin.com/in/alen-thomas-518179273)  
+- 🔗 **LinkedIn:** [@Alen Thomas](https://www.linkedin.com/in/alen-thomas-518179273/)  
 - 🐦 **X:** [@Alen Thomas](https://x.com/AlenTho94583736?t=rR8dwsNbQTdj8CSYwi4Tyw&s=09)
 - 📷 **Instagram:** [a.l.e.n.j.r](https://www.instagram.com/a.l.e.n.j.r?igsh=MWx6NTk1Z3YxOWNlZw==)
